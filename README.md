@@ -5,7 +5,7 @@ Home: http://github.com/bats-core/bats-core
 
 Package license: MIT
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: BATS: Bash Automated Testing System
 
