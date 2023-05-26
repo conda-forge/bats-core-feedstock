@@ -1,11 +1,11 @@
-About bats-core
-===============
+About bats-core-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/bats-core-feedstock/blob/main/LICENSE.txt)
 
 Home: http://github.com/bats-core/bats-core
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/bats-core-feedstock/blob/main/LICENSE.txt)
 
 Summary: BATS: Bash Automated Testing System
 
