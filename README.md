@@ -189,5 +189,6 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
+* [@harlantc](https://github.com/harlantc/)
 * [@sodre](https://github.com/sodre/)
 
