@@ -1,5 +1,5 @@
 {% set name = "bats-core" %}
-{% set version = "1.11.0" %}
+{% set version = "1.11.1" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/bats-core/{{ name }}/archive/v{{ version }}.tar.gz
-  sha256: aeff09fdc8b0c88b3087c99de00cf549356d7a2f6a69e3fcec5e0e861d2f9063
+  sha256: 5c57ed9616b78f7fd8c553b9bae3c7c9870119edd727ec17dbd1185c599f79d9
 
 build:
   number: 0
